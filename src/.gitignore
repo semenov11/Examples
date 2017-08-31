@@ -1,0 +1,10 @@
+idea/
+build/
+out/
+# Байт-код и упакованные архивы
+*.class
+*.jar
+*.war
+*.ear
+# Конфигурационный файл .idea
+.idea/workspace.xml
